@@ -7,4 +7,9 @@
     <color name="teal_700">#B92C00</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <style name="customFab">
+        <item name="android:background">@drawable/conner_backround</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
 </resources>
